@@ -1,7 +1,7 @@
 <h1 align="center" href="https://git.io/typing-svg" ><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=34&pause=1000&color=FFFFFF&center=true&width=1400&lines=Hello+Developer!!!" alt="Profile" align="center" /></h1>
 
 <h1 align="center">Hi 👋, I'm Salman Alfarisi</h1>
-<h3 align="center">A passionate backend developer and loves learning new technologies</h3>
+<h3 align="center">A passionate web developer and loves learning new technologies</h3>
 
 - 🌱 I’m currently learning **NodeJs, Laravel, and SQL Database**
 
