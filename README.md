@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **NodeJs, Laravel, and SQL Database**
 
-- 👨‍💻 All of my projects are available at [https://mantokreng.github.io/personal-website/](https://mansalman.my.id/)
+- 👨‍💻 All of my projects are available at [https://mansalman.my.id/](https://mansalman.my.id/)
 
 - 📫 How to reach me **work.salmann@gmail.com**
 
