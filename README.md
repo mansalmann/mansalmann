@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Salman Alfarisi</h1>
 <h3 align="center">A passionate web developer and loves learning new technologies</h3>
 
-- 🌱 I’m currently learning **Laravel, React, and SQL Database**
+- 🌱 I’m currently learning **Laravel, Vue, and SQL Database**
 
 - 👨‍💻 All of my projects are available at [https://mansalman.my.id/](https://mansalman.my.id/)
 
